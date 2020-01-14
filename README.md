@@ -6,7 +6,6 @@
 [![License][license-image]][license-url]
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-![](header.gif| width=50)
 <img src="https://github.com/zanony/Bricks/blob/master/header.gif" width="307" height="480">
 
 ## Requirements
