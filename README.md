@@ -1,6 +1,6 @@
 # Bricks
 
-> A iOS tetris clone with huge buttons instead of the swiping the blocks nonsense!
+> A iOS tetris clone with huge buttons instead of the swiping the blocks!
 
 [![Swift Version][swift-image]][swift-url]
 [![License][license-image]][license-url]
